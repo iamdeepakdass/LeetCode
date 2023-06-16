@@ -12,7 +12,6 @@ public:
     {
         if (ind == n)
         {
-            /* code */
             ans.push_back(arr);
             return;
         }
